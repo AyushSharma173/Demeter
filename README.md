@@ -1,6 +1,6 @@
 
 # Demeter
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZLMdSw00Vyg)
+[![Watch the video](thumnail.jpeg)](https://www.youtube.com/watch?v=ZLMdSw00Vyg)
 
 
 Project Structure:
